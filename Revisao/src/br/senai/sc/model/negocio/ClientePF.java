@@ -4,7 +4,7 @@ package br.senai.sc.model.negocio;
 /** 
  * Classe que representa os clientes físicos do software
  * @version 1.0   31/07/2013
- * @author bruna_zakrzeski
+ * @author gustavo_cm
  */
 
 
